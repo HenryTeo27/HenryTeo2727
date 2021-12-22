@@ -1,4 +1,4 @@
-# by HenryTeo2727
+#RFID Attendance System_all in one
 hi, welcome to my verse!
 this is a project in our school, we build an attendance system for our school to let it become more eficient.
 zipped file include these libraries :
